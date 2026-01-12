@@ -16493,5 +16493,7 @@
     "https://mp.weixin.qq.com/s/gv7k6uDIkciFoAXdlIolQw": "【漏洞通告】Apache Struts XWork 组件 XXE 漏洞(CVE-2025-68493)",
     "https://mp.weixin.qq.com/s/4bDn2N9oKAgvBMCHqSiZHw": "高危漏洞威胁情报合集 (2026-01-12）",
     "https://mp.weixin.qq.com/s/bY4X_NbToiE36oXSVFrqPw": "【玄域】App系列漏洞靶场已更新-新增3个App版本的JWT系列靶场",
-    "https://mp.weixin.qq.com/s/zJaHUYFOuo0qs_QAHCks_g": "【接口漏洞第五章第一节】当API“过度热心”：批量赋值漏洞的狩猎笔记"
+    "https://mp.weixin.qq.com/s/zJaHUYFOuo0qs_QAHCks_g": "【接口漏洞第五章第一节】当API“过度热心”：批量赋值漏洞的狩猎笔记",
+    "https://mp.weixin.qq.com/s/-KHeodmYpguuA34OstX4kw": "CVE-2025-68428_PoC",
+    "https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)"
 }
