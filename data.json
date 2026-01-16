@@ -16667,5 +16667,13 @@
     "https://mp.weixin.qq.com/s/Q5i060kLY4LYTw4GB2NKag": "Spring CLI 存在允许攻击者在用户系统上执行命令漏洞",
     "https://mp.weixin.qq.com/s/-JJmGsL98vozGSsTsNjzeA": "【已复现】React Router 未授权路径遍历漏洞 (CVE-2025-61686)：伪造 Cookie 即可实现任意文件写入",
     "https://mp.weixin.qq.com/s/b5MKtI8-KE8XnrTRcakwNg": "【安全圈】微软Copilot曝一键式漏洞：攻击者可悄无声息窃取敏感数据",
-    "https://mp.weixin.qq.com/s/ovrVymMdg6P-TJ-kdQnXUw": "奇安信发布智能网联汽车云平台漏洞报告：九成存漏洞，超七成涉高危风险"
+    "https://mp.weixin.qq.com/s/ovrVymMdg6P-TJ-kdQnXUw": "奇安信发布智能网联汽车云平台漏洞报告：九成存漏洞，超七成涉高危风险",
+    "https://mp.weixin.qq.com/s/DV2FAygAM4WNVBGqQA_cAQ": "一键化渗透神器，集成20+工具，子域收集、指纹探测、漏洞扫描全搞定！",
+    "https://mp.weixin.qq.com/s/AhppWF4s8JcKkQBzAySbyw": "在线阅读版：《智能网联汽车云平台漏洞分析报告》全文",
+    "https://mp.weixin.qq.com/s/2RZSyd8jifzLyt3GN3HTgA": "天价Android 0day漏洞+POC演示，宣称通杀Android12–16",
+    "https://mp.weixin.qq.com/s/xa1X4R2umUfyvAhf-5XJCQ": "智能网联汽车云平台漏洞分析报告（2025）",
+    "https://mp.weixin.qq.com/s/LJElChbwKhLiE8PdB3zP2Q": "Nacos系列漏洞：风险点与综合利用工具详解",
+    "https://mp.weixin.qq.com/s/mIg6N3wObuep42k4jYlRmA": "【逻辑漏洞】 从应用场景看金融安全— 逻辑为王",
+    "https://mp.weixin.qq.com/s/9hj1H4U6bT4iKFSUV3xTpg": "【漏洞复现】Apache Struts S2-069 XXE漏洞 CVE-2025-68493",
+    "https://mp.weixin.qq.com/s/velZeusv0yDgOI_rFbonpg": "致远OA rce"
 }
