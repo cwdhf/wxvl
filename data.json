@@ -16750,5 +16750,20 @@
     "https://mp.weixin.qq.com/s/KvDgDOWlGNPWV1pKBxaPTQ": "漏洞赏金高达 200 万+RMB 的 0-click 账户接管 MXSS",
     "https://mp.weixin.qq.com/s/dBHILYO09dGFDcJjxnY7bg": "【接口漏洞第七章第一节】解码vs编码：那个让安全工程师彻夜难眠的JSON处理细节",
     "https://mp.weixin.qq.com/s/_YiFTKHk_VV9J6DfSL3Qtg": "CVSS满分漏洞：CVE-2025-55182复现，补丁包已发布请尽快升级。",
-    "https://mp.weixin.qq.com/s/hkBcoChdedipM_-fxlnRgw": "第二周战报 | 常态化漏洞挖掘演习"
+    "https://mp.weixin.qq.com/s/hkBcoChdedipM_-fxlnRgw": "第二周战报 | 常态化漏洞挖掘演习",
+    "https://mp.weixin.qq.com/s/vQt85_4s_eBTGnm8MbAEnA": "XSS 漏洞练习靶场，覆盖反射型、存储型、DOM 型、SVG、CSP、框架注入、协议绕过等多种场景",
+    "https://mp.weixin.qq.com/s/QjfNm80kRR-sFebRhPUI8g": "漏洞预警 | 金和OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/Gzv3L5STUh5rmnETRNqZ8Q": "CVE-2025-68428：jsPDF 中的关键路径穿越",
+    "https://mp.weixin.qq.com/s/J9VVptuaR0MJG1GazP50uA": "来货拉拉SRC，提交任意有效漏洞可得新春礼盒~",
+    "https://mp.weixin.qq.com/s/eRwnSXNc8nlmOL4Bdn13BQ": "【吃瓜】前男友在某音给女生发约不约是挖漏洞",
+    "https://mp.weixin.qq.com/s/3PjV7WIAM1C7Yu7cSLqUcA": "学习干货 | 新手必练！真实复现DMZ区攻防场景与排查思路（附开源环境）",
+    "https://mp.weixin.qq.com/s/7X1Yne8HoQ7mtx5KJYK82Q": "AI赋能越权漏洞自动化检测",
+    "https://mp.weixin.qq.com/s/3FrLrb0nALFzUYc-M1HwSg": "漏洞预警 | Apache Kyuubi访问控制不当漏洞",
+    "https://mp.weixin.qq.com/s/hU8C_YDpfO86apIrWCYrnA": "漏洞预警 | 东胜物流软件信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/gja_iKShxxkPKqOZcZVWEA": "【首发复现】Windows Telephony 服务权限提升漏洞（CVE-2026-20931）",
+    "https://mp.weixin.qq.com/s/x8JBunixigLfS8qVIWR34w": "好靶场-n8n-CVE-2026-21858+CVE-2025-68613",
+    "https://mp.weixin.qq.com/s/RYCEQYwBD6lnJAg_awvkAg": "Apache ActiveMQ Jolokia 后台 RCE (CVE-2022-41678) 漏洞说明",
+    "https://mp.weixin.qq.com/s/P1wN63buKdNji9qQ8t1kSQ": "AI 辅助逆向之旅：如何从TP-Link摄像头中挖掘漏洞",
+    "https://mp.weixin.qq.com/s/yYqal6LytHFRzNX3uROFDA": "漏洞挖掘实战系列（第15期）：文件上传绕过全攻略 前端∕后端∕中间件 全场景实战",
+    "https://mp.weixin.qq.com/s/SwQIUavFsDhlLr6f4-cDkg": "Edusrc 垂直越权通杀漏洞实战 & 985证书站实战案例"
 }
