@@ -17341,5 +17341,7 @@
     "https://mp.weixin.qq.com/s/oHYB4dC3Wf5yTeI_gLGKiw": "漏洞复现 | 百卓Smart管理平台 licence.php 文件上传漏洞",
     "https://mp.weixin.qq.com/s/4GZ9Pj1pm8-ObSbh8OcaxQ": "自动化代码审计，支持PHP、Java、Python、Go、Node.js等多种语言项目环境搭建、漏洞分析、漏洞验证、报告产出",
     "https://mp.weixin.qq.com/s/WIg-z4De3SbjYDlXXKHHHA": "网安实验干货每日分享S2-053远程代码执行漏洞-0129",
-    "https://mp.weixin.qq.com/s/eI1Gpa6GllOnokinRO9ZeQ": "大华DSS平安城市 login_getPasswordErrorNum.action SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/eI1Gpa6GllOnokinRO9ZeQ": "大华DSS平安城市 login_getPasswordErrorNum.action SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/iRSKfbWctpUQYg2tmupopQ": "CVE-2025-39566 sql注入漏洞",
+    "https://mp.weixin.qq.com/s/HQDSxpkZFgmPWlBLMxiEgw": "Redis 远程代码执行漏洞（CVE-2025-49844）"
 }
