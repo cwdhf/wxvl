@@ -17546,5 +17546,7 @@
     "https://mp.weixin.qq.com/s/knjjPkEnjqDioXeLAyekrg": "海康威视无线接入点漏洞可导致恶意命令执行",
     "https://mp.weixin.qq.com/s/xA4b5mhAIe5ubEzl5OMUiA": "一个漏洞，控制所有VM：CloudCone事件的技术复盘",
     "https://mp.weixin.qq.com/s/ke4_1VPr_hZbIR70nbbb2w": "OSEE早鸟价 | 5月香港，EXP-401实战训练",
-    "https://mp.weixin.qq.com/s/ofrog6_Ru2ake4365B2NZw": "【AI高危漏洞预警】HuggingFace VLM图像获取漏洞CVE-2026-0599"
+    "https://mp.weixin.qq.com/s/ofrog6_Ru2ake4365B2NZw": "【AI高危漏洞预警】HuggingFace VLM图像获取漏洞CVE-2026-0599",
+    "https://mp.weixin.qq.com/s/B4yXdQ88zI-PUSaUyG7Brw": "fnOS路径穿越与命令执行漏洞利用分析",
+    "https://mp.weixin.qq.com/s/A3iv4c7lUBE5iTgatRC3eQ": "Nacos漏洞指纹POC集成"
 }
