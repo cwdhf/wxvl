@@ -17610,5 +17610,11 @@
     "https://mp.weixin.qq.com/s/O0fyS4zABq-BOrWw5H5Ptw": "【已复现】大蚂蚁 (BigAnt) 即时通讯系统任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/tvTUaafWnH8v1kLPD-AZ7Q": "【服务端漏洞-访问控制缺失-第二章第一节】从验证到越权：访问控制漏洞的“破门”之道（原理篇）",
     "https://mp.weixin.qq.com/s/OUqumNWCgifIFRYsdmS4PQ": "共建开源生态安全！ByteSRC正式启动开源项目漏洞收录计划！",
-    "https://mp.weixin.qq.com/s/8Sq5vsMODefXgTcPdySt8g": "[跟着静师傅学代码审计]智慧校园(安校易)管理系统多处0day"
+    "https://mp.weixin.qq.com/s/8Sq5vsMODefXgTcPdySt8g": "[跟着静师傅学代码审计]智慧校园(安校易)管理系统多处0day",
+    "https://mp.weixin.qq.com/s/lsiR8dG4mZdoQLGUkU0wpw": "Foxit PDF 编辑器漏洞允许攻击者执行任意 JavaScript 代码",
+    "https://mp.weixin.qq.com/s/ItT_-24a4N0eEutvWCnmAg": "爆火 AI 智能体 OpenClaw 被发现严重漏洞，可传播 ∕ 植入 macOS 病毒",
+    "https://mp.weixin.qq.com/s/xQy1_mmFH95qrxjqS-Ex1Q": "【高危漏洞预警】Microsoft Office安全功能绕过漏洞CVE-2026-21509",
+    "https://mp.weixin.qq.com/s/bprS63hvr_6hYoqXeRM8rg": "关于防范Microsoft Office安全功能绕过【高危漏洞】的风险提示",
+    "https://mp.weixin.qq.com/s/bocW_99dMANQSuotqiv6Yw": "承影 ChYing：支持 Nuclei POC+JWT 爆破 + 403 Bypass，开源渗透利器",
+    "https://mp.weixin.qq.com/s/HfVhm49R9X7Je6I_lGuVfQ": "【漏洞复现】飞牛私有云 fnOS 0day 漏洞复现：可任意读取文件 + 绕过认证。"
 }
