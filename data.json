@@ -17925,5 +17925,6 @@
     "https://mp.weixin.qq.com/s/XB8PTqlnc1-FPRH4nPaXjw": "CNNVD关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s/EXXeXmN3nBITr7VZd5MNsg": "AI生成恶意软件利用React2Shell漏洞攻击Docker，低门槛威胁激增",
     "https://mp.weixin.qq.com/s/_LqIQRUivsTSaN8vNqAjpg": "优秀论文 | 复旦大学陈平：云边端内核竞态漏洞大模型分析方法研究",
-    "https://mp.weixin.qq.com/s/i5FZNLdBCd7G9dKQ3diutA": "微软2月补丁星期二值得关注的漏洞"
+    "https://mp.weixin.qq.com/s/i5FZNLdBCd7G9dKQ3diutA": "微软2月补丁星期二值得关注的漏洞",
+    "https://mp.weixin.qq.com/s/szIBIyi0sLgzxGrASEbbRQ": "【已复现】最新版微信v4.1出现远程命令执行漏洞：one-click RCE on Linux WeChat"
 }
