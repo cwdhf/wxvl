@@ -17936,5 +17936,15 @@
     "https://mp.weixin.qq.com/s/Dbz9GWqNLxu-6o7neIWtkg": "漏洞预警 | 天地伟业Easy7综合管理平台文件读取漏洞",
     "https://mp.weixin.qq.com/s/Mo_RnPed8f6Qj1uQvhJnBw": "利用 Ivanti EPMM 系统零日漏洞的攻击激增",
     "https://mp.weixin.qq.com/s/ljKfH_SRrWnYy0riPvN9bw": "漏洞复现 | 深信服运维安全管理系统 getHis 远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/k3DgMIPfcvLnSo-E-gwHLQ": "扫过万千漏洞与站点，唯独对你一往情深！综合漏洞利用工具-dddd德帝版"
+    "https://mp.weixin.qq.com/s/k3DgMIPfcvLnSo-E-gwHLQ": "扫过万千漏洞与站点，唯独对你一往情深！综合漏洞利用工具-dddd德帝版",
+    "https://mp.weixin.qq.com/s/dyYofcD5V8k6AnIchSexEQ": "ctfshow web入门 命令执行4",
+    "https://mp.weixin.qq.com/s/nEgpaIP8ooi2FUwhkGZRSw": "【已复现】Microsoft Windows 记事本命令注入漏洞(CVE-2026-20841)",
+    "https://mp.weixin.qq.com/s/QCkCaQOOfVB1_DedE-C6Vw": "CVE-2026-26215 - manga-image-translator 中的未经身份验证的远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/TMdxeHaIZXSw5j_i1rZ6FQ": "CVSS 10.0！Rancher漏洞致K3s集群面临容器逃逸风险",
+    "https://mp.weixin.qq.com/s/VPE39CO8Mtr3l9x6hvr_2Q": "Host头碰撞漏洞揭秘：如何撞出“不存在”的网站",
+    "https://mp.weixin.qq.com/s/-FQHkd95VMyCX3dpK-7BHQ": "CVE-2026-20841 - Windows 记事本应用程序远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/ObURslSFAVSOOcz_axIZCw": "伪装成漏洞检测工具样本分析",
+    "https://mp.weixin.qq.com/s/KbpR09jITNlCMxWn0xiAbA": "警惕！Ivanti RCE零日漏洞复盘：这是一场针对IT管理者的“外科手术式”打击",
+    "https://mp.weixin.qq.com/s/u0i_8unHyha7-FZ_pEr-wg": "手搓漏洞：4种无工具绕过邮箱验证的实战技法",
+    "https://mp.weixin.qq.com/s/i0OI52O3IorUmeCjUHvPIg": "【SRC实战】逻辑漏洞"
 }
