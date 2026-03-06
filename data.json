@@ -18548,5 +18548,21 @@
     "https://mp.weixin.qq.com/s/JCXLbJQ10qUr49I-597Fqg": "【漏洞预警】天地伟业Easy7 uploadMapServerBgImage 文件上传漏洞",
     "https://mp.weixin.qq.com/s/f1mJyblER5ZpYk29EBSV-g": "FreeScout 严重漏洞可导致服务器遭完全接管",
     "https://mp.weixin.qq.com/s/AjjCWHAokr2AAfPbqURadw": "恶意盗取Token接管OpenClaw AI Agent（CVE-2026-25253 ClawJacked）漏洞解析与安全加固方法",
-    "https://mp.weixin.qq.com/s/JmbKRZN3bvsESXjXmM7AgQ": "iOS攻击工具包Coruna利用23个漏洞入侵数千台iPhone设备"
+    "https://mp.weixin.qq.com/s/JmbKRZN3bvsESXjXmM7AgQ": "iOS攻击工具包Coruna利用23个漏洞入侵数千台iPhone设备",
+    "https://mp.weixin.qq.com/s/DEarwnclXxu_0f7Knr3T4Q": "Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+    "https://mp.weixin.qq.com/s/4ujLQX58e4_wDT8eL1jNjA": "漏洞预警 | 大蚂蚁即时通讯系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/O2z852EaYHnIPUEKUKy5lQ": "漏洞预警 | 青龙面板身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/AZU0GCqCArUGEvLcsH19tg": "【项目实战】如何用一个漏洞赚两笔钱",
+    "https://mp.weixin.qq.com/s/cd6CCjVWuKT3kj3soDf3nA": "WatchDogKiller：WatchDog Anti-Malware 驱动漏洞 PoC",
+    "https://mp.weixin.qq.com/s/8CEh18Eg54yqcyFs-p4p6g": "紧急预警：青龙面板严重漏洞，一行命令即可接管服务器！",
+    "https://mp.weixin.qq.com/s/O9o2hDkJ7R2y2gdQsvkcuw": "攻防演练神器 | 一键检测Struts2∕Shiro∕Log4j等主流漏洞",
+    "https://mp.weixin.qq.com/s/TA5bilWX2phJnMKE6akDjg": "漏洞预警 | WordPress plugin WPNakama SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/3LjH2FGa3niEhv7Z5SpQyg": "专业的文件上传漏洞检测工具 | 支持263+绕过技术、代理抓包、动态扫描",
+    "https://mp.weixin.qq.com/s/qyUBVRHoamkyoph01CryGA": "SRC系列——某高校食堂支付程序惊现“0元购”？SRC支付逻辑漏洞",
+    "https://mp.weixin.qq.com/s/mJFJFEdM0GHYcXirUkL3KQ": "一款集资产管理与漏洞扫描于一体的网络安全评估系统|网络安全扫描利器",
+    "https://mp.weixin.qq.com/s/Ex11CFBLvrsb3cV6-R3_lw": "天地伟业Easy7 uploadMapServerBgImage接口存在任意文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s/JbD43ixjfMZIywi9QnZJfg": "【EXP】Cisco Catalyst SD-WAN 身份验证绕过漏洞(CVE-2026-20127)",
+    "https://mp.weixin.qq.com/s/UHPFxCW9raVKce2eP51siA": "破解云端加密：亚马逊 AWS-LC 库中发现未经身份验证的绕过漏洞",
+    "https://mp.weixin.qq.com/s/01A87uDZk2Yu1nM89GJOPA": "AI智能体如何自动化CVE漏洞研究",
+    "https://mp.weixin.qq.com/s/3vdborbClBeBYo4SEFbKjg": "用 Claude 把 GitHub 漏洞数据库变成代码审计 Skill"
 }
