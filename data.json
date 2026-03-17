@@ -19070,5 +19070,7 @@
     "https://mp.weixin.qq.com/s/ytnp0zEheE7daYx6UPIqug": "【已复现】泛微 E-cology10 多个远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/fBZWaB8u3LGqnYnD8757VQ": "谷歌2025年发放了近1.2亿元漏洞赏金，单个漏洞最高奖励170万元",
     "https://mp.weixin.qq.com/s/yYk0iISgFMyT4NiZlml5Fw": "【Web安全】PHP反序列化漏洞",
-    "https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw": "OpenClaw node.invoke Rce(CVE-2026-28466)"
+    "https://mp.weixin.qq.com/s/xsLdkar6psjT-rt536JMyw": "OpenClaw node.invoke Rce(CVE-2026-28466)",
+    "https://mp.weixin.qq.com/s/N7qGcpZmz_Wj34BrI3B7fg": "一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+    "https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A": "CVSS 10.0 严重缺陷 SandboxJS 漏洞授予完全远程代码执行权限"
 }
