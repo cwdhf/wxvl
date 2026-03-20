@@ -19173,5 +19173,8 @@
     "https://mp.weixin.qq.com/s/acJRu18qzQ_nJdWtbOCRBA": "OpenClaw AI高危漏洞速查、全自动漏洞安全基线检测工具",
     "https://mp.weixin.qq.com/s/UQjpB35iOt8oltRLiHNlSA": "BMC FootPrints 预认证远程代码执行漏洞链分析",
     "https://mp.weixin.qq.com/s/nukEly-vS4KNUl5SFu1_Gg": "Jenkins 的严重缺陷使 CI∕CD 服务器面临远程代码执行的风险",
-    "https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ": "俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰"
+    "https://mp.weixin.qq.com/s/gda4tQH1l6wD4NJPR4m5jQ": "俄罗斯APT组织利用Zimbra XSS漏洞CVE-2025-66376攻击乌克兰",
+    "https://mp.weixin.qq.com/s/eEN_SMBebETV-8mDGK8AJA": "OpenClaw 安全全景分析：从公开漏洞、利用链到最安全安装基线",
+    "https://mp.weixin.qq.com/s/82blCxBUzkpCsxmSUU1cHA": "Langflow 远程代码执行与任意文件写入漏洞 | CVE-2026-33017∕33309已复现",
+    "https://mp.weixin.qq.com/s/Ifz76zCGmlgnHMEZiFF4OQ": "【蓝队】一套面向企业级的漏洞全生命周期管理平台"
 }
