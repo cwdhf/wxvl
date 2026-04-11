@@ -19760,5 +19760,6 @@
     "https://mp.weixin.qq.com/s/IsZjIGKrO7bjWZjjuGs-eQ": "CNNVD | 关于Apache ActiveMQ安全漏洞的通报",
     "https://mp.weixin.qq.com/s/lsgUtAGI5Uxp6phegasiSg": "CVE-2026-39363：Vite Dev Server WebSocket 任意文件读取漏洞深度剖析",
     "https://mp.weixin.qq.com/s/GP95K87kbflb51_AAVQz8Q": "行业首家！360漏洞挖掘智能体率先完成在野0-day漏洞根因分析与复现",
-    "https://mp.weixin.qq.com/s/1Yhg0fk3QcZlrCAoqPauWA": "常见Web漏洞攻击分析"
+    "https://mp.weixin.qq.com/s/1Yhg0fk3QcZlrCAoqPauWA": "常见Web漏洞攻击分析",
+    "https://mp.weixin.qq.com/s/hnUC8Facx19hGVjdogZ_zA": "CVE-2026-4747：一个FreeBSD内核高危漏洞的利用复盘"
 }
