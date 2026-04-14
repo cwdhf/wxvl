@@ -19839,5 +19839,8 @@
     "https://mp.weixin.qq.com/s/KLXxKOaEru0s5VokBWPhIw": "漏洞预警 | 孚盟云SQL注入漏洞",
     "https://mp.weixin.qq.com/s/ZMZhdhNijO4NaMVWkxpEuQ": "LiteLLM 遭受攻击：三重威胁漏洞使 AI 网关面临全面接管风险",
     "https://mp.weixin.qq.com/s/Y2WS-gBz2cTaOcDHbOGx1w": "当网站被黑时，应该怎么排查问题和漏洞",
-    "https://mp.weixin.qq.com/s/TBHmht4qTippf47eFNy3Ww": "Google Chrome WebGL 越界读∕写漏洞允许远程代码执行。"
+    "https://mp.weixin.qq.com/s/TBHmht4qTippf47eFNy3Ww": "Google Chrome WebGL 越界读∕写漏洞允许远程代码执行。",
+    "https://mp.weixin.qq.com/s/okqH_AOcJ3sJtvOnvkwYBw": "“Jenny是我的朋友”——用MCP打造我的AI漏洞猎人",
+    "https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw": "Axios爆SSRF漏洞，特定条件下可导致RCE",
+    "https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA": "[漏洞复现]某华ICC智能物联综合管理平台存在SQL注入漏洞"
 }
