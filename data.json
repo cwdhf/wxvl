@@ -19900,5 +19900,6 @@
     "https://mp.weixin.qq.com/s/CidhE3791Nodwp9CbWNpQw": "【漏洞通告】Apache Tomcat EncryptInterceptor绕过漏洞(CVE-2026-34486)",
     "https://mp.weixin.qq.com/s/SzeDpY60Ywdg1WxF7-H-bw": "用户名 ∕ 昵称内容注入漏洞",
     "https://mp.weixin.qq.com/s/pjQyfYPpu_jRHM3RqUt_cQ": "论文研读与思考｜XSSky：通过局部路径持久模糊测试检测XSS漏洞",
-    "https://mp.weixin.qq.com/s/tE1ru0R7FK44-mHo0fF5dQ": "微软确认SharePoint Server关键零日漏洞遭活跃攻击（CVE-2026-32201）"
+    "https://mp.weixin.qq.com/s/tE1ru0R7FK44-mHo0fF5dQ": "微软确认SharePoint Server关键零日漏洞遭活跃攻击（CVE-2026-32201）",
+    "https://mp.weixin.qq.com/s/9LwLE43XZ_13KgMhaFoubQ": "博硕BGM Download.ashx接口存在任意文件读取漏洞 附POC"
 }
