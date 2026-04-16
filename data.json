@@ -19938,5 +19938,6 @@
     "https://mp.weixin.qq.com/s/5Qpaw3DFKMO-FYlZctds6g": "默连(morelian) 简简单单的webshell管理工具(支持常规的代码执行，文件管理等，默认支持http与socks代理，支持gui与浏览器两种运行方式)",
     "https://mp.weixin.qq.com/s/ZmzubIfkycq-K5Hs3KuqNw": "榨干Intego最后一滴：Windows权限提升漏洞的简单艺术",
     "https://mp.weixin.qq.com/s/8_0CzT8P-QLXeM3ISGdhYg": "CVE-2026-33032 深度分析：nginx-ui MCP端点认证绕过导致 Nginx 服务器完全接管",
-    "https://mp.weixin.qq.com/s/rQRss4Ib4gt8aIn_jL7QYQ": "论文研读与思考|ChainFuzzer：LLM Agent中面向工作流级别的多工具漏洞的灰盒模糊测试"
+    "https://mp.weixin.qq.com/s/rQRss4Ib4gt8aIn_jL7QYQ": "论文研读与思考|ChainFuzzer：LLM Agent中面向工作流级别的多工具漏洞的灰盒模糊测试",
+    "https://mp.weixin.qq.com/s/qEqK1B2-UpAiZDNbR5voDA": "chatgpt-on-wechat存在身份验证漏洞漏洞(CVE-2026-6129)"
 }
