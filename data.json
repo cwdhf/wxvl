@@ -19939,5 +19939,11 @@
     "https://mp.weixin.qq.com/s/ZmzubIfkycq-K5Hs3KuqNw": "榨干Intego最后一滴：Windows权限提升漏洞的简单艺术",
     "https://mp.weixin.qq.com/s/8_0CzT8P-QLXeM3ISGdhYg": "CVE-2026-33032 深度分析：nginx-ui MCP端点认证绕过导致 Nginx 服务器完全接管",
     "https://mp.weixin.qq.com/s/rQRss4Ib4gt8aIn_jL7QYQ": "论文研读与思考|ChainFuzzer：LLM Agent中面向工作流级别的多工具漏洞的灰盒模糊测试",
-    "https://mp.weixin.qq.com/s/qEqK1B2-UpAiZDNbR5voDA": "chatgpt-on-wechat存在身份验证漏洞漏洞(CVE-2026-6129)"
+    "https://mp.weixin.qq.com/s/qEqK1B2-UpAiZDNbR5voDA": "chatgpt-on-wechat存在身份验证漏洞漏洞(CVE-2026-6129)",
+    "https://mp.weixin.qq.com/s/gg1KMQpuHQPWRng-nPxWBA": "Adobe正式官宣Reader漏洞已被在野利用，打开PDF可执行任意代码",
+    "https://mp.weixin.qq.com/s/TyF6pnpDhE_Z7WHlF3aHRg": "天地伟业Easy7 uploadFile接口存在任意文件上传漏洞 附POC",
+    "https://mp.weixin.qq.com/s/oWX5Xg6BxSDH3fp0DIgEVg": "漏洞预警 | Oracle Identity Manager远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/dDXBTTz74CUJW0-THbZ8dg": "Windows Defender LPE 0day 漏洞",
+    "https://mp.weixin.qq.com/s/WYhN-doMdXETDAuqoU6tpA": "抓紧打补丁！4月Patch Tuesday核心高危漏洞技术深度解析（内附高危漏洞速查清单）",
+    "https://mp.weixin.qq.com/s/WGncNI3qoD9xgZuehrtqHA": "漏洞预警 | LEAN MES系统SQL注入漏洞"
 }
