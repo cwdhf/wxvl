@@ -20227,5 +20227,13 @@
     "https://mp.weixin.qq.com/s/97zyDxpP1L2QMq4t2N4SxA": "黑客利用Telegram做“战报系统”，900余家企业遭React2Shell漏洞批量洗劫",
     "https://mp.weixin.qq.com/s/6ZHb7JPOdw1KaN78148Q6A": "黑客利用 Breeze Cache 插件漏洞（CVE-2026-3844）发起攻击，超 40 万个网站面临安全风险",
     "https://mp.weixin.qq.com/s/76vg9O1K5kr0dynaOgEacA": "漏洞复现 | 用友NC ServletForESBAdaptor 反序列化RCE漏洞",
-    "https://mp.weixin.qq.com/s/pYX7ym5MGbopdjjBbZk2JQ": "漏洞预警 | 天地伟业Easy7 SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/pYX7ym5MGbopdjjBbZk2JQ": "漏洞预警 | 天地伟业Easy7 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/ppbocrTnhKgJIIVN4CoQWQ": "畅捷通T+ FormReportOperateAction 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s/IDVgCPTEHXgp2287_IMqYA": "智互联WMS getsyspdaversionlistbyparams SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/KqEoLc6qc6qKmbJIcrRkEw": "AI漏洞海啸来袭：五步构建Mythos-ready安全体系",
+    "https://mp.weixin.qq.com/s/3i8QzA17oITXTxiNjUiEAg": "国家人工智能安全漏洞库正式启动，AI漏洞治理开始进入“基础设施化”阶段",
+    "https://mp.weixin.qq.com/s/D2ZgOupvuJC7GTe2F9R_HQ": "代码审计 某cms任意文件下载漏洞",
+    "https://mp.weixin.qq.com/s/dSOYqzaeNhDCVlXfgAJOow": "如何骗过 PackageKit 拿到 Root（CVE-2026-41651）",
+    "https://mp.weixin.qq.com/s/vetr3EdxDiVH73EnCtWisw": "CVE-2026-34621 回顾：136天的检测谎言",
+    "https://mp.weixin.qq.com/s/bprUqeLSDdjBS179mBXcqg": "CVE-2017-12615 Apache Tomcat任意文件上传漏洞说明"
 }
