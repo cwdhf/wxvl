@@ -20438,5 +20438,11 @@
     "https://mp.weixin.qq.com/s/I-dEZ4dydun3EmHNqH5aVA": "src低危漏洞多少钱？",
     "https://mp.weixin.qq.com/s/r8ebtL86TC9uQG7ltZRDhA": "cPanel 0Day认证绕过漏洞遭野外利用，PoC已公开",
     "https://mp.weixin.qq.com/s/f6S9x1G5KL1nP_owZlkfsA": "Linux内核存在本地权限提升漏洞",
-    "https://mp.weixin.qq.com/s/1EWkomo46st3LnE5Je2zTw": "CVE-2026-41940：cPanel∕WHM 认证绕过漏洞深度分析"
+    "https://mp.weixin.qq.com/s/1EWkomo46st3LnE5Je2zTw": "CVE-2026-41940：cPanel∕WHM 认证绕过漏洞深度分析",
+    "https://mp.weixin.qq.com/s/BcHrYDo5bfzHjxmr96pGuA": "Copy Fail：一个几乎影响所有主流 Linux 发行版的提权漏洞",
+    "https://mp.weixin.qq.com/s/ZCt_xDssyPEWVAjxWtMZNQ": "50 元封顶！渗透攻防 + SRC 漏洞星球限时开放！",
+    "https://mp.weixin.qq.com/s/sGMkfyyrOasfmthG0euNrg": "如何通过漏洞组合链为工控平台CODESYS植入后门",
+    "https://mp.weixin.qq.com/s/_e332pf-qS04KPhu0O7Mcg": "模型不是全部：从 Mythos、Hacktron 与 oauth2-proxy 0-day 看自动化漏洞挖掘系统的真实瓶颈",
+    "https://mp.weixin.qq.com/s/cEe6CNPqRg16OBPVUTuZgA": "警惕，最新LINUX漏洞",
+    "https://mp.weixin.qq.com/s/-Y27Rn8FGQm4iOFiHBHQdQ": "ProFTPD SQL注入漏洞为远程代码执行攻击打开方便之门"
 }
