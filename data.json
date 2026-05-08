@@ -20659,5 +20659,6 @@
     "https://mp.weixin.qq.com/s/XmuQn8oRJlFHokw9poKA7A": "页缓存篡改破防！Linux kernel Dirty Frag本地权限提升漏洞安全通告",
     "https://mp.weixin.qq.com/s/LUshTdBaDa6NYmVWprrM2A": "【Linux+Web渗透】Silver Platter 新手打靶场的一些思路以及最新的CVE-2026-31431和DirtyFrag",
     "https://mp.weixin.qq.com/s/EnQmMo_UpF-NkZFGRFh8Xw": "信息安全漏洞月报（2026年04月）",
-    "https://mp.weixin.qq.com/s/y1IH1fPjfFda83yWGsC9eg": "Dirty Frag：2026年严重的 Linux 本地提权漏洞深度分析"
+    "https://mp.weixin.qq.com/s/y1IH1fPjfFda83yWGsC9eg": "Dirty Frag：2026年严重的 Linux 本地提权漏洞深度分析",
+    "https://mp.weixin.qq.com/s/12IovyzpSpSS3WFmsJw-PQ": "4 个字节，9 年技术债：CVE-2026-31431 ∕ Copy Fail 完整拆解"
 }
