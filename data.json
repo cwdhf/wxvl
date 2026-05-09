@@ -20660,5 +20660,7 @@
     "https://mp.weixin.qq.com/s/LUshTdBaDa6NYmVWprrM2A": "【Linux+Web渗透】Silver Platter 新手打靶场的一些思路以及最新的CVE-2026-31431和DirtyFrag",
     "https://mp.weixin.qq.com/s/EnQmMo_UpF-NkZFGRFh8Xw": "信息安全漏洞月报（2026年04月）",
     "https://mp.weixin.qq.com/s/y1IH1fPjfFda83yWGsC9eg": "Dirty Frag：2026年严重的 Linux 本地提权漏洞深度分析",
-    "https://mp.weixin.qq.com/s/12IovyzpSpSS3WFmsJw-PQ": "4 个字节，9 年技术债：CVE-2026-31431 ∕ Copy Fail 完整拆解"
+    "https://mp.weixin.qq.com/s/12IovyzpSpSS3WFmsJw-PQ": "4 个字节，9 年技术债：CVE-2026-31431 ∕ Copy Fail 完整拆解",
+    "https://mp.weixin.qq.com/s/JlczL70XFc28sWUKjjEDqg": "Blinko < 1.8.4 路径遍历漏洞存在任意文件读取漏洞CVE-2026-23482 附POC",
+    "https://mp.weixin.qq.com/s/iXD6k9US4xyMI8FQ5qcgvg": "如何使用MCP进行自动化漏洞挖掘"
 }
