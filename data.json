@@ -21772,5 +21772,6 @@
     "https://mp.weixin.qq.com/s/V5d0xAb4WC_nWXIidIexfQ": "Linux内核FUSE漏洞可致攻击者获取Root权限",
     "https://mp.weixin.qq.com/s/_1JnI5G2U76_3h7RjDlyIA": "WordPress插件漏洞遭大规模武器化",
     "https://mp.weixin.qq.com/s/lXQDZe66GqnEiV7aCrxVQA": "【成功复现】XWiki Platform目录遍历漏洞(CVE-2026-34151)",
-    "https://mp.weixin.qq.com/s/kL39d3vSxc4f0JbrPH1IZw": "CVE-2026-43499 (GhostLock)：Linux 内核 rtmutex 子系统的 Stack-UAF 漏洞（存在 15 年）"
+    "https://mp.weixin.qq.com/s/kL39d3vSxc4f0JbrPH1IZw": "CVE-2026-43499 (GhostLock)：Linux 内核 rtmutex 子系统的 Stack-UAF 漏洞（存在 15 年）",
+    "https://mp.weixin.qq.com/s/XYrXBlPz6R6pOYTT_faBSg": "紧急预警 | CVE-2026-21053 | 三星自带电子邮件应用任意文件写入漏洞"
 }
