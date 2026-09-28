@@ -22534,5 +22534,13 @@
     "https://mp.weixin.qq.com/s/EtZpbr79VkFDfH5ofXgh0Q": "扫描器永远扫不出来的那一类洞：业务逻辑漏洞怎么挖",
     "https://mp.weixin.qq.com/s/t4MMjuBUnw9Oe9X7LJS2Xw": "首批！360入选国家人工智能安全漏洞库优秀技术支撑单位",
     "https://mp.weixin.qq.com/s/_PORSoSZOEK0seaq_qx6rA": "MikroTrick漏洞链：一行命令，无需密码接管公网路由器",
-    "https://mp.weixin.qq.com/s/d9HtO05B2nzS-lPxeRcQGQ": "从焊 UART 到浏览器打穿：TP-Link Tapo 摄像头 RCE 链（TAPOcalypse）"
+    "https://mp.weixin.qq.com/s/d9HtO05B2nzS-lPxeRcQGQ": "从焊 UART 到浏览器打穿：TP-Link Tapo 摄像头 RCE 链（TAPOcalypse）",
+    "https://mp.weixin.qq.com/s/nn9GKFvr_YS4u2gMq-uySA": "AI 智能漏洞扫描插件 -- Zack-AI-Scanner",
+    "https://mp.weixin.qq.com/s/BPbH33uWJtg5uEwwWNNHJQ": "CNVD漏洞周报2026年第37期",
+    "https://mp.weixin.qq.com/s/qdb3_pOOxnOEq1JEzpjd2A": "Apache Tomcat 认证绕过 · IBM FTM 远程代码执行 · AWS pgCollection 类型混淆",
+    "https://mp.weixin.qq.com/s/Lp60LMmqUJnGJLgpqswbJw": "评论字符限制绕过导致客户端拒绝服务漏洞",
+    "https://mp.weixin.qq.com/s/BxEqWYcL5gGxVtsT5bPHtA": "做渗透测试的人，为什么需要一个漏洞管理平台？",
+    "https://mp.weixin.qq.com/s/opz7YQGNm0MuMuXiV6kzIA": "我用豆包挖了11集SRC漏洞，说句实话：有7集是真有用，有4集是凑数的",
+    "https://mp.weixin.qq.com/s/AB8wg01t6OArnVomKWEj3A": "wvp-GB28181pro摄像头管理平台存在未授权访问漏洞  附POC",
+    "https://mp.weixin.qq.com/s/GOOZutRMR0RtylsZdoPaZQ": "F5 修复了 BIG-IP APM 的关键零日漏洞，该漏洞已被远程代码执行攻击利用"
 }
