@@ -22622,5 +22622,8 @@
     "https://mp.weixin.qq.com/s/2deFsswBKjwGsSp1bKSs_w": "【漏洞通告】VMware vCenter存在目录遍历漏洞(CVE-2026-59310)",
     "https://mp.weixin.qq.com/s/xcwzaMESU-RZVc3n_hWvyQ": "资产遍布全国、漏洞库三年翻倍的背后，某大型集团的漏扫为什么越来越\"稳\"？",
     "https://mp.weixin.qq.com/s/_Z38qSHvDhI-X5NwN9SnAg": "(10分) CVE-2026-102240：Netcore AP未认证命令注入，一条GET拿root",
-    "https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA": "【漏洞通告】Citrix NetScaler ADC∕Gateway未授权命令注入漏洞(CVE-2026-88771)"
+    "https://mp.weixin.qq.com/s/rAB8v9QOL5VxaivLBPetEA": "【漏洞通告】Citrix NetScaler ADC∕Gateway未授权命令注入漏洞(CVE-2026-88771)",
+    "https://mp.weixin.qq.com/s/-ps4Hty70QFXHX1bRSjpeg": "路径遍历漏洞：一个下载接口引发的系统文件泄露",
+    "https://mp.weixin.qq.com/s/JyXkDWmGtCn2rYsY9iEoMQ": "16岁研究员发现微软身份验证漏洞，导致17.3万亿条记录泄露",
+    "https://mp.weixin.qq.com/s/rNcz37vLoVwapVja4TjcCw": "redisRCE复盘"
 }
