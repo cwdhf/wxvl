@@ -22761,5 +22761,9 @@
     "https://mp.weixin.qq.com/s/ACk3bSPVJSC7Xs568k4YlA": "LPAR2RRD 升级功能 RCE 漏洞：只读用户绕过权限实现命令执行",
     "https://mp.weixin.qq.com/s/Fr-YDlLIfd3nokcNo5OUuw": "MySQL最新漏洞 mysqldump 客户端栈溢出漏洞",
     "https://mp.weixin.qq.com/s/UZuKKCKTNO_grcY0e_BbQg": "如何通过AI高效复现传统漏洞？",
-    "https://mp.weixin.qq.com/s/WM5iAuPnh086SLEKzNsz9w": "用友U8 crm客户关系管理swfupload.php存在任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s/WM5iAuPnh086SLEKzNsz9w": "用友U8 crm客户关系管理swfupload.php存在任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/IsTaal0y9x50hyd3FUVkvA": "SDC2026议题预告 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术",
+    "https://mp.weixin.qq.com/s/8_EviLz3LO3L7lV2PMC4AA": "前端代码资产采集、网站嗅探、备案查询、指纹扫描、泄露扫描、漏洞审计、浏览器辅助与 浏览器扩展工具 ——玄镜 AegisScope",
+    "https://mp.weixin.qq.com/s/yZQGMefXb8Q6aMQbHRP-ww": "漏洞预警|知名项目管理软件Atlassian Jira曝 CVE-2026-21589 未授权任意文件读取漏洞，CVSS:9.3 大家抓紧修复",
+    "https://mp.weixin.qq.com/s/fRsIvRawMMPJpeB04QH7Ew": "银狐的兵工厂不是木马而是驱动：13个合法签名漏洞驱动轮番上阵，查到ValleyRAT也别急着归因"
 }
