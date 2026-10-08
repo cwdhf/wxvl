@@ -22822,5 +22822,7 @@
     "https://mp.weixin.qq.com/s/Tw8cihqaBe5QGMGSh6LS4g": "报名进行时｜首届全球具身智能应用创新挑战赛·漏洞挖掘挑战赛诚邀参赛",
     "https://mp.weixin.qq.com/s/Q34tmxXv697P8M1uhb_9Kw": "【漏洞通告】cjose JWE全零密钥漏洞(CVE-2026-53939)",
     "https://mp.weixin.qq.com/s/iYq9XQkbDKwVTBQUFUjOpw": "Pwn2Own 2026首日赛果出炉，32个0Day攻破三星S26、OpenAI Codex等产品",
-    "https://mp.weixin.qq.com/s/BSWhyjSJfNB27Aji3hOm3Q": "【漏洞通告】Atlassia多产品未授权任意文件读取漏洞(CVE-2026-21589)"
+    "https://mp.weixin.qq.com/s/BSWhyjSJfNB27Aji3hOm3Q": "【漏洞通告】Atlassia多产品未授权任意文件读取漏洞(CVE-2026-21589)",
+    "https://mp.weixin.qq.com/s/dN43midSAeaZtRLO9hWQtg": "【高危漏洞预警】Atlassian Data Center未认证任意文件读取漏洞CVE-2026-21589",
+    "https://mp.weixin.qq.com/s/NsEvJLds12dR901y03bAVg": "红帽 OpenShift 漏洞允许攻击者绕过 PGP 检查并推送恶意版本"
 }
